@@ -1,0 +1,12 @@
+En java: todo el código va dentro de una clase
+
+estas clases contienen atributos(variables) y métodos(funciones)
+
+
+DECLARAR UNA VARIABLE
+
+typeofdata nombre = dato;
+
+ej:  String name = "Juan"; Como es string debemos usar ""
+
+int age = 18
