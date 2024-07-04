@@ -1,0 +1,51 @@
+datos primitivos
+
+Inician con minúscula 
+
+
+Tipos de datos primitivos en Java
+
+byte: Un entero de 8 bits.
+short: Un entero de 16 bits.
+int: Un entero de 32 bits.
+long: Un entero de 64 bits.
+float: Un número de punto flotante de precisión simple de 32 bits.
+double: Un número de punto flotante de precisión doble de 64 bits.
+char: Un carácter Unicode de 16 bits.
+boolean: Representa valores lógicos, true o false.
+
+
+DECLARAR UNA VARIABLE
+
+typeofdata nombre = valor
+
+int edad = 18;       RECORDAD ;            
+
+
+Para declarar una cadena usamos "", para declarar un carácter usamos ''
+
+
+OPERADORES ARITMETICOS
+
++,-,*,/,%
+
+UNITARY
+
++1,-1 (declarar valores positivos y negativos ej: int positive = +5), ++,--(aumentadores)
+
+
+ASIGNACION
+
+=, +=, *=,-=
+
+
+COMPARASION
+
+== VERIFICA SI 2 VALORES SON IGUALES (tiene en cuenta el TIPO DE DATO)
+
+=!,<,>,<=,>=
+
+
+LOGICOS
+
+&& AND, || OR, ! NOT
