@@ -61,7 +61,7 @@ public class ejercicio {
 
         while (menu){
             System.out.println("Ingrese una opcion");
-            System.out.println("1. listar  2. ver por estado  3. buscar  4. modificar");
+            System.out.println("1. listar  2. ver por estado  3. buscar  4. modificar  5. salir");
             int op = scanner.nextInt();
 
             switch (op){
