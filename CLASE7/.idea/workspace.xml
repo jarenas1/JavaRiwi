@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05fafdb0-30aa-47a5-870a-58731b05caea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/dos/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/dos/EmpleadoPermanente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/dos/EmpleadoTemporal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/dos/GestionEmpleados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/dos/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/tres/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/tres/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/tres/GestionCursos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/uno/EspProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/uno/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/uno/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WORKSHOP2/taller/src/tres/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/tres/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WORKSHOP2/taller/src/tres/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/tres/Estudiante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WORKSHOP2/taller/src/tres/GestionCursos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/tres/GestionCursos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
