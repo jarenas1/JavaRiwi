@@ -5,10 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05fafdb0-30aa-47a5-870a-58731b05caea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/poo/clases/src/abstractas/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/clases/src/abstractas/Cuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/clases/src/abstractas/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/clases/src/abstractas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/clases/src/constantes/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/clases/src/constantes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/clases/src/constantes/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/clases/src/constantes/gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/clases/src/constantes/useEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/clases/src/interfaces/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/clases/src/interfaces/Cuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/clases/src/interfaces/Dibujable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/clases/src/interfaces/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/clases/src/interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/clases/src/interfaces/Rotable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WORKSHOP2/taller/src/tres/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/tres/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WORKSHOP2/taller/src/tres/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/tres/Estudiante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WORKSHOP2/taller/src/tres/GestionCursos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WORKSHOP2/taller/src/tres/GestionCursos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/clases/src/polimosfirmo/Herencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/clases/src/polimosfirmo/Herencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/out/production/poo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/poo/out/production/poo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/out/production/poo/herencia/herencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/poo/out/production/poo/herencia/herencia.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,15 +48,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Pizza.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/juanj/OneDrive/Escritorio/DESARROLLO/java/RIWI/CLASE7"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Pizza.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/juanj/OneDrive/Escritorio/DESARROLLO/java/RIWI/CLASE7/poo&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
